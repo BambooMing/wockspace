@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_friends_normal.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_friends_normal.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\grey_point.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\grey_point.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_menu.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_menu.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_music_prs.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_music_prs.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_discover_selected.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_discover_selected.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_friends_prs.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_friends_prs.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_discover_prs.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_discover_prs.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_friends_selected.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_friends_selected.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_music_normal.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_music_normal.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_more.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_more.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_search.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_search.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\red_point.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\red_point.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_music_selected.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_music_selected.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\actionbar_discover_normal.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\actionbar_discover_normal.png"
+    }
+]

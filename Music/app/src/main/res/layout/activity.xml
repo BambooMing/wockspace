@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:fitsSystemWindows="true"
+    android:background="#ff0000"
+    android:orientation="vertical">
+        <RelativeLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+            <ImageView
+                android:id="@+id/bar_menu"
+                android:layout_width="23dp"
+                android:layout_height="23dp"
+                android:scaleType="center"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="23dp"
+                android:background="@drawable/actionbar_menu" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true">
+                <ImageView
+                    android:id="@+id/bar_net"
+                    android:layout_width="55dp"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/actionbar_disco"
+                    android:clickable="true" />
+
+                <ImageView
+                    android:id="@+id/bar_music"
+                    android:layout_width="55dp"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/actionbar_music"
+                    android:clickable="true" />
+            </LinearLayout>
+
+
+            <ImageView
+                android:id="@+id/bar_search"
+                android:layout_width="23dp"
+                android:layout_height="23dp"
+                android:scaleType="center"
+                android:layout_marginRight="23dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/actionbar_search" />
+        </RelativeLayout>
+
+</LinearLayout>

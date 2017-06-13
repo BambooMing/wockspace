@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_discover_prs.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_discover_prs.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_friends_normal.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_friends_normal.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_music_selected.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_music_selected.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_search.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_search.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_music_normal.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_music_normal.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_friends_prs.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_friends_prs.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_discover_selected.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_discover_selected.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_discover_normal.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_discover_normal.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_music_prs.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_music_prs.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_friends_selected.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_friends_selected.png"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_menu.png",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_menu.png"
+    }
+]

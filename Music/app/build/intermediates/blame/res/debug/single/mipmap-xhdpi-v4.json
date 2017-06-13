@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\first.jpg",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\first.jpg"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\menu_top_bg.jpg",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\menu_top_bg.jpg"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\fourth.jpg",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\fourth.jpg"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\five.jpg",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\five.jpg"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\seven.jpg",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\seven.jpg"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\second.jpg",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\second.jpg"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\third.jpg",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\third.jpg"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\six.jpg",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\six.jpg"
+    }
+]

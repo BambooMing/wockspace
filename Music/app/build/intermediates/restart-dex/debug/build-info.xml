@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a"
+    api-level="19"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="2267882438049"
+    token="4651175481151664296"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="14032" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2323" />
+    <task
+        name="verifier"
+        duration="391" />
+
+    <artifact
+        location="E:\android_wockspeace\Music\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="2267882438049"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\android_wockspeace\Music\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

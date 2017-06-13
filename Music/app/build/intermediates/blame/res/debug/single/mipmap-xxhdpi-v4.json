@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\music_bg.jpg",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xxhdpi\\music_bg.jpg"
+    },
+    {
+        "merged": "E:\\android_wockspeace\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\art_login_bg.jpg",
+        "source": "E:\\android_wockspeace\\Music\\app\\src\\main\\res\\mipmap-xxhdpi\\art_login_bg.jpg"
+    }
+]
